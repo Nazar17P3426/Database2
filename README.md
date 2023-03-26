@@ -1,2 +1,2 @@
 # Database2
-This is new updated database!
+In this new database, I'll make C++ malwares! Enjoy :)
